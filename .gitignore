@@ -7,3 +7,5 @@
 /Webgentle.BookStore/Webgentle.BookStore/obj
 /Webgentle.BookStore/Webgentle.BookStore/bin/Debug/netcoreapp3.1
 /Webgentle.BookStore/.vs/ProjectEvaluation
+/Webgentle.BookStore/Webgentle.BookStore/wwwroot/lib/jquery
+/Webgentle.BookStore/Webgentle.BookStore/wwwroot/lib/twitter-bootstrap
